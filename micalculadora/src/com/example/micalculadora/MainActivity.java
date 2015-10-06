@@ -44,6 +44,7 @@ public class MainActivity extends Activity {
 	private Button _bC;
 	
 	private int _valor;
+	
 	private int _operacion;
 	
 	private boolean _nuevoValor = true;
